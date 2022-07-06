@@ -1,0 +1,12 @@
+{
+  "name": "instagram-private-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "dotenv": "^16.0.1",
+    "instagram-private-api": "^1.45.3"
+  }
+}
