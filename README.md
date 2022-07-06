@@ -20,12 +20,6 @@ rename .env.example to .env and set your IG_USERNAME, IG_PASSWORD
  yarn Install or npm Install
 ```
 
-- Install Dependencies
-
-```bash
- yarn Install or npm Install
-```
-
 - Run Projects
 
 ```bash
